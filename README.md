@@ -25,8 +25,8 @@ This is my final project for the Code First Girls Intro to Python & apps course.
 - [x] Used newlines to make the printed output more user-friendly and more like reading a Top Trump card
 
 ### Could Have Tasks:
-- [] Research Python user interfaces
-- [] Create user interface for game
+- [ ] Research Python user interfaces
+- [ ] Create user interface for game
 
 ## PROJECT SCREENSHOTS
 
@@ -60,3 +60,6 @@ This is my final project for the Code First Girls Intro to Python & apps course.
 ## COURSE COMPLETION AWARD
 
 I was very pleased to win **first place** in the final project competition and was awarded a **Highly Commended** certificate!
+
+![image](https://user-images.githubusercontent.com/107806810/210856267-cabb4606-a374-4d4c-88ec-0644c8891eb3.png)
+
