@@ -27,6 +27,7 @@ This is my final project for the Code First Girls Intro to Python & apps course.
 ### Could Have Tasks:
 - [x] Research Python user interfaces
 - [ ] Create user interface for game
+- [ ] Scoreboard system
 - [ ] Use a different API
 
 ## PROJECT SCREENSHOTS
