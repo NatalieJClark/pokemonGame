@@ -1,6 +1,6 @@
 # Pokemon Top Trumps Game
 
-This is my final project for the Code First Girls Intro to Python & apps course.  I collaborated with my teammate Awa Danfa, to design and build a Pokemon themed game based on the populare Top Trumps card game.
+This is my final project for the Code First Girls Intro to Python & apps course.  I collaborated with my teammate, to design and build a Pokemon themed game based on the popular Top Trumps card game.
 
 ## PROJECT REQUIREMENTS
 
