@@ -30,8 +30,6 @@ This is my final project for the Code First Girls Intro to Python & apps course.
 - [ ] Scoreboard system
 - [ ] Use a different API
 
-## PROJECT SCREENSHOTS
-
 ## PROJECT EVALUATION
 
 ### What we enjoyed:
